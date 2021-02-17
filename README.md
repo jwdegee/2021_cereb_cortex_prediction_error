@@ -2,4 +2,4 @@
 
 Analysis code for de Gee*, Correa*, Weaver, Donner & van Gaal, Cerebral Cortex, 2021.
 
-Data can be found at: data at https://doi.org/10.6084/m9.figshare.14046374
+Data can be found at: https://doi.org/10.6084/m9.figshare.14046374
